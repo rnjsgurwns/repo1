@@ -1,9 +1,9 @@
 package practice;
 
 public class Apple {
-	int x;
-	int y;
-	int z;
+	Integer x;
+	Integer y;
+	Integer z;
 	Float d;
 	
 	public Apple(int a, int b, int c) {
